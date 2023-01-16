@@ -36,3 +36,77 @@
     transform: rotate(360deg);
   }
 }
+h1{
+  color: black;
+}
+
+h3{
+  font-family: 'Work Sans', sans-serif;
+    font-weight: 400;
+    color: #575757;
+}
+.strong{
+  text-align: center;
+}
+li {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  justify-content: center;
+  align-items: center;
+}
+
+.html{
+  
+  justify-content: center;
+  align-items: center;
+  background-image: url("./img/html.png");
+  margin: auto;
+  width: 100px;
+  height: 100px;
+}
+
+.css{
+  
+  justify-content: center;
+  align-items: center;
+  background-image: url("./img/css.png");
+  margin: auto;
+  width: 100px;
+  height: 100px;
+}
+.js{
+  
+  justify-content: center;
+  align-items: center;
+  background-image: url("./img/js.png");
+  margin: auto;
+  width: 100px;
+  height: 100px;
+}
+.react{
+  
+  justify-content: center;
+  align-items: center;
+  background-image: url("./img/js.png");
+  margin: auto;
+  width: 100px;
+  height: 100px;
+}
+.github{
+  
+  justify-content: center;
+  align-items: center;
+  background-image: url("./img/github.png");
+  margin: auto;
+  width: 100px;
+  height: 100px;
+}
+.git{
+  
+  justify-content: center;
+  align-items: center;
+  background-image: url("./img/git.png");
+  margin: auto;
+  width: 100px;
+  height: 100px;
+}
