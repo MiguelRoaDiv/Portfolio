@@ -101,6 +101,15 @@ li {
   width: 100px;
   height: 100px;
 }
+.github2{
+  
+  justify-content: center;
+  align-items: center;
+  background-image: url("./img/github.png");
+  margin: auto;
+  width: 40px;
+  height: 40px;
+}
 .git{
   
   justify-content: center;
@@ -109,4 +118,22 @@ li {
   margin: auto;
   width: 100px;
   height: 100px;
+}
+.linkedin{
+  
+  justify-content: center;
+  align-items: center;
+  background-image: url("./img/linkedin.png");
+  margin: auto;
+  width: 40px;
+  height: 40px;
+}
+.insta{
+  
+  justify-content: center;
+  align-items: center;
+  background-image: url("./img/insta.png");
+  margin: auto;
+  width: 40px;
+  height: 40px;
 }
