@@ -4,14 +4,16 @@ import About from "./Components/About";
 import Skills from "./Components/Skills";
 import MyWork from "./Components/MyWork";
 import Contact from "./Components/Contact";
+import Card from "./Components/Card";
 
 function App() {
   return (
     <div className="App">
       <Container/>
       <About/>
-      <Skills/>
       <MyWork/>
+      <Card/>
+      <Skills/>
       <Contact/>
     </div>
   );
