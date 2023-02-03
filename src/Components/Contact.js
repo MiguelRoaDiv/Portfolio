@@ -1,8 +1,7 @@
 import React from 'react'
 
-import { FaWhatsapp} from "react-icons/fa"
-import { FaGithub} from "react-icons/fa"
-import { FaLinkedin} from "react-icons/fa"
+import { FaWhatsapp, FaGithub, FaLinkedin} from "react-icons/fa"
+
 
 
 
