@@ -1,18 +1,35 @@
 import React from 'react'
-import linkedin from '../img/linkedin.png'
-import insta from '../img/insta.png'
-import github2 from '../img/github.png'
+
+import { FaWhatsapp} from "react-icons/fa"
+import { FaGithub} from "react-icons/fa"
+import { FaLinkedin} from "react-icons/fa"
+
+
 
 const Contact = () => {
     return (
         <div>
-        <h1>
-        Contact
-        </h1>
-            <img src={linkedin} className="linkedin" alt={linkedin}/>
-            <img src={insta} className="insta" alt={insta}/>
-            <img src={github2} className="github2" alt={github2}/>
+            <h1>
+            Contact
+            </h1>
+           
+
+            <a href="https://github.com/MiguelRoaDiv"  class='github' target="_blank">
+            <FaGithub size='3rem' />
+            </a>
+
+            <a href="https://www.linkedin.com/in/miguel-eduardo-garcía-roa-a0ab61203/" class='linkedin' target="_blank">
+            <FaLinkedin size='3rem' />
+            </a>
+
+
+        
+            
+            <a href="https://api.whatsapp.com/send?phone=3142074008&text=Buen%20día,%20quisiera%20más%20información"  class="float" target="_blank">
+            <FaWhatsapp size='3.1rem' />
+            </a>
         </div>
+
     )
 }
 export default Contact
