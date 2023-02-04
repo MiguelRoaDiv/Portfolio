@@ -17,7 +17,7 @@ const Contact = () => {
             <FaGithub size='3rem' />
             </a>
 
-            <a href="https://www.linkedin.com/in/miguel-eduardo-garcía-roa-a0ab61203/" class='linkedin' target="_blank">
+            <a href="https://www.linkedin.com/in/miguel-eduardo-garcía-roa-a0ab61203/"  target="_blank">
             <FaLinkedin size='3rem' />
             </a>
 

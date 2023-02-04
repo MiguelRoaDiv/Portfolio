@@ -4,6 +4,7 @@ import Sabujcha from '../img/sabujcha.png'
 import ZShop from '../img/zshop.png'
 import Cripto from '../img/cripto.png'
 
+
 const cards = [
     {
         id: 1,
