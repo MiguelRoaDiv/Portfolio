@@ -3,7 +3,7 @@ import React from 'react'
 
 function Cards({title, imageSource, url}){
     return(
-        <div className="card text-center bg-dark">
+        <div className="card text-center bg-dark nimate__animated animate__fadeInUp" >
             <div className='overflow'>
                 <img src={imageSource} alt="" className='card-img-top'/>
             </div>

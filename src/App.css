@@ -182,8 +182,8 @@ li {
 
 
 .card:hover {
-  box-shadow: 5px 10px 20px 1px rgba(25, 4, 209, 0.273) !important;
-  transition: all 0.7s linear;
+  box-shadow: 5px 10px 20px 1px rgba(25, 4, 209, 2.573) !important;
+  transition: all 0.3s linear;
 }
 
 .card-body {
